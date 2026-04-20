@@ -1,17 +1,23 @@
 # Instances-SCFLPS
-The instances used for the article An enhanced benders decomposition method and a matheuristic algorithm for solving the stochastic capacitated facility location problem with shortages
 
-José Emmanuel Gómez-Rocha, Eva Selene Hernández-Gress, José-Fernando Camacho-Vallejo, Cipriano Santos,
-An enhanced benders decomposition method and a matheuristic algorithm for solving the stochastic capacitated facility location problem with shortages,
-Expert Systems with Applications,
-Volume 255, Part D,
-2024,
-124802,
-ISSN 0957-4174,
-https://doi.org/10.1016/j.eswa.2024.124802.
-(https://www.sciencedirect.com/science/article/pii/S0957417424016695) \
+This repository contains the instances used in the article:
 
-Abstract: The Capacitated Facility Location Problem (CFLP) is a well-known combinatorial optimization problem extensively studied in the field of location sciences. It has numerous applications in industrial engineering, humanitarian logistics, telecommunication networks, and other domains. Incorporating uncertainties in demands, stochastic programming emerges as a suitable approach to address this problem. Therefore, due to the inherent stochasticity, not all customers demand may be satisfied. To address this issue, we incorporate the concept of shortages into the CFLP. As a result, the CFLP with shortages and normally distributed demands is proposed, where the cost of losing a customer is considered as a penalty cost in the objective function. To address the problem, we propose three exact methods and a matheuristic algorithm. The exact methods are grounded in Benders decomposition: a straightforward implementation, a refined version adding a set of valid inequalities, and an enhanced approach based on Branch-and-Cut. The matheuristic algorithm follows a Fixing-First scheme based on pricing strategies, efficiently solving the problem within a reasonable computational time. The effectiveness of the proposed algorithms is evaluated by comparing it against a deterministic equivalent solution given by the general-purpose solver Gurobi. Computational experiments are conducted on a set of challenging instances using a sample average approximation scheme. To validate the applicability of the problem under study, a real case study involving Mobile Health Clinics (MHCs) located in Mexico was analyzed. Interesting managerial insights were obtained, highlighting the importance of having at least 271 MHCs to achieve the objectives that the government has set for medical coverage of acute respiratory infections for socially vulnerable people through its healthcare programs.\
+**José Emmanuel Gómez-Rocha, Eva Selene Hernández-Gress, José-Fernando Camacho-Vallejo, and Cipriano Santos**  
+*An enhanced Benders decomposition method and a matheuristic algorithm for solving the stochastic capacitated facility location problem with shortages*  
+**Expert Systems with Applications**, Volume 255, Part D, 2024, 124802  
+ISSN: 0957-4174  
+DOI: [10.1016/j.eswa.2024.124802](https://doi.org/10.1016/j.eswa.2024.124802)  
+Available at: [ScienceDirect](https://www.sciencedirect.com/science/article/pii/S0957417424016695)
 
-Keywords: Facility location; Stochastic programming; Shortages; Benders decomposition; Matheuristics; Mobile health clinics
+## Abstract
+
+The Capacitated Facility Location Problem (CFLP) is a well-known combinatorial optimization problem that has been widely studied in location science due to its relevance in industrial engineering, humanitarian logistics, telecommunications, and other application domains. When customer demand is uncertain, stochastic programming provides a suitable framework for addressing this problem. Under such uncertainty, however, not all customer demand can necessarily be satisfied.
+
+To capture this feature, this work incorporates shortages into the CFLP and proposes a stochastic capacitated facility location problem with shortages under normally distributed demands, where customer loss is penalized in the objective function. To solve the problem, three exact methods and one matheuristic algorithm are proposed. The exact methods are based on Benders decomposition and include: (i) a basic implementation, (ii) a strengthened version with valid inequalities, and (iii) an enhanced Branch-and-Cut approach. The matheuristic follows a Fix-and-Relax style strategy based on pricing ideas, allowing high-quality solutions to be obtained within reasonable computational times.
+
+The proposed methods are evaluated against the deterministic equivalent formulation solved with Gurobi through extensive computational experiments on challenging instances under a sample average approximation framework. In addition, the practical relevance of the model is illustrated through a real case study involving Mobile Health Clinics (MHCs) in Mexico. The results provide useful managerial insights, including the finding that at least 271 MHCs would be required to meet the government’s healthcare coverage goals for acute respiratory infections among socially vulnerable populations.
+
+## Keywords
+
+Facility location; Stochastic programming; Shortages; Benders decomposition; Matheuristics; Mobile health clinics
 
