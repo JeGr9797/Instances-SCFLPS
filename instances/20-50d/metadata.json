@@ -1,0 +1,29 @@
+{
+  "name": "20-50d",
+  "source_file": "20-50d.xlsx",
+  "format_version": "2.0",
+  "data_sheet": "Hoja1 (2)",
+  "cost_sheet": "Hoja1",
+  "sets": {
+    "plants": 20,
+    "markets": 50
+  },
+  "parameters": {
+    "klow": 7474,
+    "khigh": 373680,
+    "CrefLow": 373680,
+    "CrefHigh": 747360,
+    "kiWave": 168178.25
+  },
+  "records": {
+    "demand": 50,
+    "capacity": 20,
+    "fixed_cost": 20,
+    "transport_costs": 1000
+  },
+  "validation": {
+    "transport_matrix_rows": 20,
+    "transport_matrix_columns": 50,
+    "transport_matrix_complete": true
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "name": "100-500-b",
+  "source_file": "100-500 b.xlsx",
+  "format_version": "2.0",
+  "data_sheet": "Sheet2",
+  "cost_sheet": "Sheet1",
+  "sets": {
+    "plants": 100,
+    "markets": 500
+  },
+  "parameters": {
+    "klow": 7605,
+    "khigh": 3802525,
+    "CrefLow": 3802525,
+    "CrefHigh": 7605050,
+    "kiWave": 1934567.42
+  },
+  "records": {
+    "demand": 500,
+    "capacity": 100,
+    "fixed_cost": 100,
+    "transport_costs": 50000
+  },
+  "validation": {
+    "transport_matrix_rows": 100,
+    "transport_matrix_columns": 500,
+    "transport_matrix_complete": true
+  }
+}

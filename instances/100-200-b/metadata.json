@@ -1,0 +1,29 @@
+{
+  "name": "100-200-b",
+  "source_file": "100-200 b .xlsx",
+  "format_version": "2.0",
+  "data_sheet": "Hoja2",
+  "cost_sheet": "Hoja1",
+  "sets": {
+    "plants": 100,
+    "markets": 200
+  },
+  "parameters": {
+    "klow": 7618,
+    "khigh": 1523677,
+    "CrefLow": 1523677,
+    "CrefHigh": 3047354,
+    "kiWave": 688080.04
+  },
+  "records": {
+    "demand": 200,
+    "capacity": 100,
+    "fixed_cost": 100,
+    "transport_costs": 20000
+  },
+  "validation": {
+    "transport_matrix_rows": 100,
+    "transport_matrix_columns": 200,
+    "transport_matrix_complete": true
+  }
+}

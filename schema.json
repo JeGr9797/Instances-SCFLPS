@@ -1,0 +1,34 @@
+{
+  "instance_folder": [
+    "metadata.json",
+    "demand.csv",
+    "capacity.csv",
+    "fixed_cost.csv",
+    "transport_cost_matrix.csv",
+    "transport_cost_long.csv",
+    "instance.json"
+  ],
+  "demand.csv": [
+    "market/customer",
+    "mu",
+    "sd"
+  ],
+  "capacity.csv": [
+    "plant",
+    "capacity"
+  ],
+  "fixed_cost.csv": [
+    "plant",
+    "fixed_cost",
+    "auxiliary_flag"
+  ],
+  "transport_cost_long.csv": [
+    "plant",
+    "market",
+    "cost"
+  ],
+  "auxiliary_folder": [
+    "clientes.csv/json",
+    "candidatos.csv/json"
+  ]
+}

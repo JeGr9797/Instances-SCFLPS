@@ -1,0 +1,2607 @@
+{
+  "metadata": {
+    "name": "candidatos",
+    "source_file": "Candidatos.xlsx",
+    "rows": 432,
+    "columns": [
+      "Planta",
+      "NOM_MUN",
+      "LAT_DEC",
+      "LON_DEC"
+    ]
+  },
+  "records": [
+    {
+      "Planta": 1,
+      "NOM_MUN": "Abasolo",
+      "LAT_DEC": 27.181944,
+      "LON_DEC": -101.426389
+    },
+    {
+      "Planta": 2,
+      "NOM_MUN": "Acajete",
+      "LAT_DEC": 19.10494,
+      "LON_DEC": -97.952715
+    },
+    {
+      "Planta": 3,
+      "NOM_MUN": "Acajete",
+      "LAT_DEC": 19.10494,
+      "LON_DEC": -97.952715
+    },
+    {
+      "Planta": 4,
+      "NOM_MUN": "Acayucan",
+      "LAT_DEC": 17.948823,
+      "LON_DEC": -94.913871
+    },
+    {
+      "Planta": 5,
+      "NOM_MUN": "Actopan",
+      "LAT_DEC": 20.269047,
+      "LON_DEC": -98.942901
+    },
+    {
+      "Planta": 6,
+      "NOM_MUN": "Agua Blanca de Iturbide",
+      "LAT_DEC": 20.349504,
+      "LON_DEC": -98.356386
+    },
+    {
+      "Planta": 7,
+      "NOM_MUN": "Agua Dulce",
+      "LAT_DEC": 18.138272,
+      "LON_DEC": -94.147239
+    },
+    {
+      "Planta": 8,
+      "NOM_MUN": "Agualeguas",
+      "LAT_DEC": 26.310915,
+      "LON_DEC": -99.539389
+    },
+    {
+      "Planta": 9,
+      "NOM_MUN": "Alaquines",
+      "LAT_DEC": 22.127894,
+      "LON_DEC": -99.600389
+    },
+    {
+      "Planta": 10,
+      "NOM_MUN": "Aldama",
+      "LAT_DEC": 16.917818,
+      "LON_DEC": -92.688192
+    },
+    {
+      "Planta": 11,
+      "NOM_MUN": "Almoloya del Río",
+      "LAT_DEC": 19.159386,
+      "LON_DEC": -99.488842
+    },
+    {
+      "Planta": 12,
+      "NOM_MUN": "Alpatláhuac",
+      "LAT_DEC": 19.119951,
+      "LON_DEC": -97.093152
+    },
+    {
+      "Planta": 13,
+      "NOM_MUN": "Altar",
+      "LAT_DEC": 30.713339,
+      "LON_DEC": -111.833572
+    },
+    {
+      "Planta": 14,
+      "NOM_MUN": "Altotonga",
+      "LAT_DEC": 19.766149,
+      "LON_DEC": -97.245526
+    },
+    {
+      "Planta": 15,
+      "NOM_MUN": "Álvaro Obregón",
+      "LAT_DEC": 19.390806,
+      "LON_DEC": -99.195413
+    },
+    {
+      "Planta": 16,
+      "NOM_MUN": "Amacueca",
+      "LAT_DEC": 20.010556,
+      "LON_DEC": -103.596111
+    },
+    {
+      "Planta": 17,
+      "NOM_MUN": "Amacuzac",
+      "LAT_DEC": 18.600002,
+      "LON_DEC": -99.369514
+    },
+    {
+      "Planta": 18,
+      "NOM_MUN": "Amatitlán",
+      "LAT_DEC": 18.432344,
+      "LON_DEC": -95.733279
+    },
+    {
+      "Planta": 19,
+      "NOM_MUN": "Amatlán de Cañas",
+      "LAT_DEC": 20.807782,
+      "LON_DEC": -104.405389
+    },
+    {
+      "Planta": 20,
+      "NOM_MUN": "Amatlán de los Reyes",
+      "LAT_DEC": 18.847578,
+      "LON_DEC": -96.915484
+    },
+    {
+      "Planta": 21,
+      "NOM_MUN": "Amaxac de Guerrero",
+      "LAT_DEC": 19.350286,
+      "LON_DEC": -98.169569
+    },
+    {
+      "Planta": 22,
+      "NOM_MUN": "Amealco de Bonfil",
+      "LAT_DEC": 20.186444,
+      "LON_DEC": -100.144195
+    },
+    {
+      "Planta": 23,
+      "NOM_MUN": "Amixtlán",
+      "LAT_DEC": 20.049437,
+      "LON_DEC": -97.798917
+    },
+    {
+      "Planta": 24,
+      "NOM_MUN": "Anáhuac",
+      "LAT_DEC": 27.240647,
+      "LON_DEC": -100.132436
+    },
+    {
+      "Planta": 25,
+      "NOM_MUN": "Angostura",
+      "LAT_DEC": 25.36436,
+      "LON_DEC": -108.159489
+    },
+    {
+      "Planta": 26,
+      "NOM_MUN": "Apaseo el Grande",
+      "LAT_DEC": 20.545284,
+      "LON_DEC": -100.688217
+    },
+    {
+      "Planta": 27,
+      "NOM_MUN": "Apozol",
+      "LAT_DEC": 21.470877,
+      "LON_DEC": -103.09119
+    },
+    {
+      "Planta": 28,
+      "NOM_MUN": "Aquismón",
+      "LAT_DEC": 21.621362,
+      "LON_DEC": -99.019535
+    },
+    {
+      "Planta": 29,
+      "NOM_MUN": "Aramberri",
+      "LAT_DEC": 24.100586,
+      "LON_DEC": -99.818067
+    },
+    {
+      "Planta": 30,
+      "NOM_MUN": "Arizpe",
+      "LAT_DEC": 30.336232,
+      "LON_DEC": -110.166809
+    },
+    {
+      "Planta": 31,
+      "NOM_MUN": "Armadillo de los Infante",
+      "LAT_DEC": 22.243591,
+      "LON_DEC": -100.654675
+    },
+    {
+      "Planta": 32,
+      "NOM_MUN": "Arriaga",
+      "LAT_DEC": 16.236065,
+      "LON_DEC": -93.899473
+    },
+    {
+      "Planta": 33,
+      "NOM_MUN": "Arteaga",
+      "LAT_DEC": 25.450621,
+      "LON_DEC": -100.849623
+    },
+    {
+      "Planta": 34,
+      "NOM_MUN": "Asientos",
+      "LAT_DEC": 22.238317,
+      "LON_DEC": -102.089275
+    },
+    {
+      "Planta": 35,
+      "NOM_MUN": "Asunción Cacalotepec",
+      "LAT_DEC": 17.035264,
+      "LON_DEC": -95.956562
+    },
+    {
+      "Planta": 36,
+      "NOM_MUN": "Asunción Cuyotepeji",
+      "LAT_DEC": 17.930901,
+      "LON_DEC": -97.674353
+    },
+    {
+      "Planta": 37,
+      "NOM_MUN": "Asunción Ixtaltepec",
+      "LAT_DEC": 16.50384,
+      "LON_DEC": -95.057045
+    },
+    {
+      "Planta": 38,
+      "NOM_MUN": "Asunción Nochixtlán",
+      "LAT_DEC": 17.458936,
+      "LON_DEC": -97.225199
+    },
+    {
+      "Planta": 39,
+      "NOM_MUN": "Asunción Tlacolulita",
+      "LAT_DEC": 16.300263,
+      "LON_DEC": -95.726305
+    },
+    {
+      "Planta": 40,
+      "NOM_MUN": "Atempan",
+      "LAT_DEC": 19.8399,
+      "LON_DEC": -97.459279
+    },
+    {
+      "Planta": 41,
+      "NOM_MUN": "Atlatlahucan",
+      "LAT_DEC": 18.936271,
+      "LON_DEC": -98.899175
+    },
+    {
+      "Planta": 42,
+      "NOM_MUN": "Atlequizayan",
+      "LAT_DEC": 20.014008,
+      "LON_DEC": -97.624086
+    },
+    {
+      "Planta": 43,
+      "NOM_MUN": "Atolinga",
+      "LAT_DEC": 21.806949,
+      "LON_DEC": -103.465583
+    },
+    {
+      "Planta": 44,
+      "NOM_MUN": "Atotonilco el Alto",
+      "LAT_DEC": 20.550556,
+      "LON_DEC": -102.504167
+    },
+    {
+      "Planta": 45,
+      "NOM_MUN": "Atotonilco el Grande",
+      "LAT_DEC": 20.286878,
+      "LON_DEC": -98.669024
+    },
+    {
+      "Planta": 46,
+      "NOM_MUN": "Atoyac",
+      "LAT_DEC": 20.010556,
+      "LON_DEC": -103.516389
+    },
+    {
+      "Planta": 47,
+      "NOM_MUN": "Atoyatempan",
+      "LAT_DEC": 18.822567,
+      "LON_DEC": -97.91375
+    },
+    {
+      "Planta": 48,
+      "NOM_MUN": "Atzacan",
+      "LAT_DEC": 18.906968,
+      "LON_DEC": -97.083905
+    },
+    {
+      "Planta": 49,
+      "NOM_MUN": "Axochiapan",
+      "LAT_DEC": 18.502406,
+      "LON_DEC": -98.754079
+    },
+    {
+      "Planta": 50,
+      "NOM_MUN": "Axtla de Terrazas",
+      "LAT_DEC": 21.436389,
+      "LON_DEC": -98.875
+    },
+    {
+      "Planta": 51,
+      "NOM_MUN": "Ayotlán",
+      "LAT_DEC": 20.528056,
+      "LON_DEC": -102.328333
+    },
+    {
+      "Planta": 52,
+      "NOM_MUN": "Ayotoxco de Guerrero",
+      "LAT_DEC": 20.097159,
+      "LON_DEC": -97.410524
+    },
+    {
+      "Planta": 53,
+      "NOM_MUN": "Ayotzintepec",
+      "LAT_DEC": 17.676709,
+      "LON_DEC": -96.133271
+    },
+    {
+      "Planta": 54,
+      "NOM_MUN": "Bacadéhuachi",
+      "LAT_DEC": 29.809074,
+      "LON_DEC": -109.140745
+    },
+    {
+      "Planta": 55,
+      "NOM_MUN": "Bacanora",
+      "LAT_DEC": 28.983929,
+      "LON_DEC": -109.400396
+    },
+    {
+      "Planta": 56,
+      "NOM_MUN": "Bacerac",
+      "LAT_DEC": 30.355278,
+      "LON_DEC": -108.929799
+    },
+    {
+      "Planta": 57,
+      "NOM_MUN": "Banámichi",
+      "LAT_DEC": 30.007232,
+      "LON_DEC": -110.217736
+    },
+    {
+      "Planta": 58,
+      "NOM_MUN": "Batopilas de Manuel Gómez Morín",
+      "LAT_DEC": 27.026652,
+      "LON_DEC": -107.73971
+    },
+    {
+      "Planta": 59,
+      "NOM_MUN": "Bavispe",
+      "LAT_DEC": 30.480123,
+      "LON_DEC": -108.940919
+    },
+    {
+      "Planta": 60,
+      "NOM_MUN": "Boca del Río",
+      "LAT_DEC": 19.105439,
+      "LON_DEC": -96.106651
+    },
+    {
+      "Planta": 61,
+      "NOM_MUN": "Bokobá",
+      "LAT_DEC": 21.00694,
+      "LON_DEC": -89.179525
+    },
+    {
+      "Planta": 62,
+      "NOM_MUN": "Buctzotz",
+      "LAT_DEC": 21.201897,
+      "LON_DEC": -88.794462
+    },
+    {
+      "Planta": 63,
+      "NOM_MUN": "Bustamante",
+      "LAT_DEC": 26.534664,
+      "LON_DEC": -100.502706
+    },
+    {
+      "Planta": 64,
+      "NOM_MUN": "Bustamante",
+      "LAT_DEC": 26.534664,
+      "LON_DEC": -100.502706
+    },
+    {
+      "Planta": 65,
+      "NOM_MUN": "Cacahoatán",
+      "LAT_DEC": 14.989789,
+      "LON_DEC": -92.16811
+    },
+    {
+      "Planta": 66,
+      "NOM_MUN": "Cansahcab",
+      "LAT_DEC": 21.158103,
+      "LON_DEC": -89.102341
+    },
+    {
+      "Planta": 67,
+      "NOM_MUN": "Capulálpam de Méndez",
+      "LAT_DEC": 17.306421,
+      "LON_DEC": -96.44598
+    },
+    {
+      "Planta": 68,
+      "NOM_MUN": "Cárdenas",
+      "LAT_DEC": 22.000904,
+      "LON_DEC": -99.642505
+    },
+    {
+      "Planta": 69,
+      "NOM_MUN": "Carmen",
+      "LAT_DEC": 18.637789,
+      "LON_DEC": -91.83645
+    },
+    {
+      "Planta": 70,
+      "NOM_MUN": "Castaños",
+      "LAT_DEC": 26.785278,
+      "LON_DEC": -101.430556
+    },
+    {
+      "Planta": 71,
+      "NOM_MUN": "Caxhuacan",
+      "LAT_DEC": 20.063958,
+      "LON_DEC": -97.606617
+    },
+    {
+      "Planta": 72,
+      "NOM_MUN": "Chacaltianguis",
+      "LAT_DEC": 18.305336,
+      "LON_DEC": -95.84139
+    },
+    {
+      "Planta": 73,
+      "NOM_MUN": "Charo",
+      "LAT_DEC": 19.747488,
+      "LON_DEC": -101.046857
+    },
+    {
+      "Planta": 74,
+      "NOM_MUN": "Chenalhó",
+      "LAT_DEC": 16.894277,
+      "LON_DEC": -92.626148
+    },
+    {
+      "Planta": 75,
+      "NOM_MUN": "Chiapilla",
+      "LAT_DEC": 16.570493,
+      "LON_DEC": -92.720025
+    },
+    {
+      "Planta": 76,
+      "NOM_MUN": "Chicoasén",
+      "LAT_DEC": 16.967255,
+      "LON_DEC": -93.105235
+    },
+    {
+      "Planta": 77,
+      "NOM_MUN": "Chietla",
+      "LAT_DEC": 18.519365,
+      "LON_DEC": -98.578353
+    },
+    {
+      "Planta": 78,
+      "NOM_MUN": "Chilón",
+      "LAT_DEC": 17.105491,
+      "LON_DEC": -92.271528
+    },
+    {
+      "Planta": 79,
+      "NOM_MUN": "Chimalhuacán",
+      "LAT_DEC": 19.416908,
+      "LON_DEC": -98.945299
+    },
+    {
+      "Planta": 80,
+      "NOM_MUN": "China",
+      "LAT_DEC": 25.705914,
+      "LON_DEC": -99.239317
+    },
+    {
+      "Planta": 81,
+      "NOM_MUN": "Chinampa de Gorostiza",
+      "LAT_DEC": 21.359599,
+      "LON_DEC": -97.735338
+    },
+    {
+      "Planta": 82,
+      "NOM_MUN": "Chinantla",
+      "LAT_DEC": 18.200502,
+      "LON_DEC": -98.263164
+    },
+    {
+      "Planta": 83,
+      "NOM_MUN": "Chontla",
+      "LAT_DEC": 21.293435,
+      "LON_DEC": -97.92493
+    },
+    {
+      "Planta": 84,
+      "NOM_MUN": "Churintzio",
+      "LAT_DEC": 20.15096,
+      "LON_DEC": -102.065921
+    },
+    {
+      "Planta": 85,
+      "NOM_MUN": "Cihuatlán",
+      "LAT_DEC": 19.238333,
+      "LON_DEC": -104.563056
+    },
+    {
+      "Planta": 86,
+      "NOM_MUN": "Ciudad del Maíz",
+      "LAT_DEC": 22.399846,
+      "LON_DEC": -99.600574
+    },
+    {
+      "Planta": 87,
+      "NOM_MUN": "Ciudad Fernández",
+      "LAT_DEC": 21.943512,
+      "LON_DEC": -100.011022
+    },
+    {
+      "Planta": 88,
+      "NOM_MUN": "Coacoatzintla",
+      "LAT_DEC": 19.653106,
+      "LON_DEC": -96.945141
+    },
+    {
+      "Planta": 89,
+      "NOM_MUN": "Coapilla",
+      "LAT_DEC": 17.130791,
+      "LON_DEC": -93.159022
+    },
+    {
+      "Planta": 90,
+      "NOM_MUN": "Coatepec Harinas",
+      "LAT_DEC": 18.925711,
+      "LON_DEC": -99.768519
+    },
+    {
+      "Planta": 91,
+      "NOM_MUN": "Coatlán del Río",
+      "LAT_DEC": 18.744186,
+      "LON_DEC": -99.434801
+    },
+    {
+      "Planta": 92,
+      "NOM_MUN": "Cochoapa el Grande",
+      "LAT_DEC": 17.192967,
+      "LON_DEC": -98.45528
+    },
+    {
+      "Planta": 93,
+      "NOM_MUN": "Cocula",
+      "LAT_DEC": 18.235866,
+      "LON_DEC": -99.66119
+    },
+    {
+      "Planta": 94,
+      "NOM_MUN": "Coetzala",
+      "LAT_DEC": 18.785636,
+      "LON_DEC": -96.916692
+    },
+    {
+      "Planta": 95,
+      "NOM_MUN": "Cohuecan",
+      "LAT_DEC": 18.783205,
+      "LON_DEC": -98.720489
+    },
+    {
+      "Planta": 96,
+      "NOM_MUN": "Coicoyán de las Flores",
+      "LAT_DEC": 17.272898,
+      "LON_DEC": -98.276094
+    },
+    {
+      "Planta": 97,
+      "NOM_MUN": "Colima",
+      "LAT_DEC": 19.242922,
+      "LON_DEC": -103.728119
+    },
+    {
+      "Planta": 98,
+      "NOM_MUN": "Colón",
+      "LAT_DEC": 20.788326,
+      "LON_DEC": -100.045431
+    },
+    {
+      "Planta": 99,
+      "NOM_MUN": "Comala",
+      "LAT_DEC": 19.323199,
+      "LON_DEC": -103.758801
+    },
+    {
+      "Planta": 100,
+      "NOM_MUN": "Comapa",
+      "LAT_DEC": 19.164629,
+      "LON_DEC": -96.886231
+    },
+    {
+      "Planta": 101,
+      "NOM_MUN": "Comitán de Domínguez",
+      "LAT_DEC": 16.252461,
+      "LON_DEC": -92.135835
+    },
+    {
+      "Planta": 102,
+      "NOM_MUN": "Concepción del Oro",
+      "LAT_DEC": 24.613169,
+      "LON_DEC": -101.420484
+    },
+    {
+      "Planta": 103,
+      "NOM_MUN": "Concepción Pápalo",
+      "LAT_DEC": 17.841365,
+      "LON_DEC": -96.88136
+    },
+    {
+      "Planta": 104,
+      "NOM_MUN": "Constancia del Rosario",
+      "LAT_DEC": 17.037822,
+      "LON_DEC": -97.941458
+    },
+    {
+      "Planta": 105,
+      "NOM_MUN": "Copainalá",
+      "LAT_DEC": 17.093611,
+      "LON_DEC": -93.210556
+    },
+    {
+      "Planta": 106,
+      "NOM_MUN": "Copalillo",
+      "LAT_DEC": 18.034151,
+      "LON_DEC": -99.041724
+    },
+    {
+      "Planta": 107,
+      "NOM_MUN": "Cosío",
+      "LAT_DEC": 22.366409,
+      "LON_DEC": -102.300044
+    },
+    {
+      "Planta": 108,
+      "NOM_MUN": "Coxcatlán",
+      "LAT_DEC": 18.266533,
+      "LON_DEC": -97.147113
+    },
+    {
+      "Planta": 109,
+      "NOM_MUN": "Coxquihui",
+      "LAT_DEC": 20.184737,
+      "LON_DEC": -97.586271
+    },
+    {
+      "Planta": 110,
+      "NOM_MUN": "Coyuca de Benítez",
+      "LAT_DEC": 17.009002,
+      "LON_DEC": -100.089367
+    },
+    {
+      "Planta": 111,
+      "NOM_MUN": "Cuajinicuilapa",
+      "LAT_DEC": 16.471986,
+      "LON_DEC": -98.416745
+    },
+    {
+      "Planta": 112,
+      "NOM_MUN": "Cuauhtémoc",
+      "LAT_DEC": 19.328774,
+      "LON_DEC": -103.601861
+    },
+    {
+      "Planta": 113,
+      "NOM_MUN": "Cuautepec",
+      "LAT_DEC": 16.749003,
+      "LON_DEC": -99.001546
+    },
+    {
+      "Planta": 114,
+      "NOM_MUN": "Cuautitlán",
+      "LAT_DEC": 19.665061,
+      "LON_DEC": -99.17863
+    },
+    {
+      "Planta": 115,
+      "NOM_MUN": "Cuernavaca",
+      "LAT_DEC": 18.921783,
+      "LON_DEC": -99.234897
+    },
+    {
+      "Planta": 116,
+      "NOM_MUN": "Cuitláhuac",
+      "LAT_DEC": 18.814539,
+      "LON_DEC": -96.722323
+    },
+    {
+      "Planta": 117,
+      "NOM_MUN": "Cunduacán",
+      "LAT_DEC": 18.065363,
+      "LON_DEC": -93.1743
+    },
+    {
+      "Planta": 118,
+      "NOM_MUN": "Cuyamecalco Villa de Zaragoza",
+      "LAT_DEC": 17.965083,
+      "LON_DEC": -96.831376
+    },
+    {
+      "Planta": 119,
+      "NOM_MUN": "Cuzamá",
+      "LAT_DEC": 20.741484,
+      "LON_DEC": -89.316961
+    },
+    {
+      "Planta": 120,
+      "NOM_MUN": "Delicias",
+      "LAT_DEC": 28.193333,
+      "LON_DEC": -105.471111
+    },
+    {
+      "Planta": 121,
+      "NOM_MUN": "Doctor Arroyo",
+      "LAT_DEC": 23.674692,
+      "LON_DEC": -100.182256
+    },
+    {
+      "Planta": 122,
+      "NOM_MUN": "Doctor Mora",
+      "LAT_DEC": 21.14264,
+      "LON_DEC": -100.318949
+    },
+    {
+      "Planta": 123,
+      "NOM_MUN": "Ecuandureo",
+      "LAT_DEC": 20.162616,
+      "LON_DEC": -102.194566
+    },
+    {
+      "Planta": 124,
+      "NOM_MUN": "Ejutla",
+      "LAT_DEC": 19.906389,
+      "LON_DEC": -104.161944
+    },
+    {
+      "Planta": 125,
+      "NOM_MUN": "El Espinal",
+      "LAT_DEC": 16.48571,
+      "LON_DEC": -95.042836
+    },
+    {
+      "Planta": 126,
+      "NOM_MUN": "El Fuerte",
+      "LAT_DEC": 26.421599,
+      "LON_DEC": -108.619966
+    },
+    {
+      "Planta": 127,
+      "NOM_MUN": "El Grullo",
+      "LAT_DEC": 19.8075,
+      "LON_DEC": -104.215556
+    },
+    {
+      "Planta": 128,
+      "NOM_MUN": "El Limón",
+      "LAT_DEC": 19.824444,
+      "LON_DEC": -104.152222
+    },
+    {
+      "Planta": 129,
+      "NOM_MUN": "El Naranjo",
+      "LAT_DEC": 22.522036,
+      "LON_DEC": -99.322509
+    },
+    {
+      "Planta": 130,
+      "NOM_MUN": "El Parral",
+      "LAT_DEC": 16.366228,
+      "LON_DEC": -93.006711
+    },
+    {
+      "Planta": 131,
+      "NOM_MUN": "El Salto",
+      "LAT_DEC": 20.519444,
+      "LON_DEC": -103.181667
+    },
+    {
+      "Planta": 132,
+      "NOM_MUN": "Emiliano Zapata",
+      "LAT_DEC": 16.539172,
+      "LON_DEC": -92.896724
+    },
+    {
+      "Planta": 133,
+      "NOM_MUN": "Encarnación de Díaz",
+      "LAT_DEC": 21.524444,
+      "LON_DEC": -102.233056
+    },
+    {
+      "Planta": 134,
+      "NOM_MUN": "Ensenada",
+      "LAT_DEC": 31.808944,
+      "LON_DEC": -116.595134
+    },
+    {
+      "Planta": 135,
+      "NOM_MUN": "Epitacio Huerta",
+      "LAT_DEC": 20.134689,
+      "LON_DEC": -100.293722
+    },
+    {
+      "Planta": 136,
+      "NOM_MUN": "Espita",
+      "LAT_DEC": 21.011053,
+      "LON_DEC": -88.306823
+    },
+    {
+      "Planta": 137,
+      "NOM_MUN": "Ezequiel Montes",
+      "LAT_DEC": 20.665295,
+      "LON_DEC": -99.898406
+    },
+    {
+      "Planta": 138,
+      "NOM_MUN": "Felipe Carrillo Puerto",
+      "LAT_DEC": 19.57851,
+      "LON_DEC": -88.046587
+    },
+    {
+      "Planta": 139,
+      "NOM_MUN": "Fresnillo",
+      "LAT_DEC": 23.174895,
+      "LON_DEC": -102.868229
+    },
+    {
+      "Planta": 140,
+      "NOM_MUN": "Frontera",
+      "LAT_DEC": 26.926111,
+      "LON_DEC": -101.449444
+    },
+    {
+      "Planta": 141,
+      "NOM_MUN": "Frontera",
+      "LAT_DEC": 26.926111,
+      "LON_DEC": -101.449444
+    },
+    {
+      "Planta": 142,
+      "NOM_MUN": "Frontera Comalapa",
+      "LAT_DEC": 15.660164,
+      "LON_DEC": -92.14105
+    },
+    {
+      "Planta": 143,
+      "NOM_MUN": "Galeana",
+      "LAT_DEC": 30.112949,
+      "LON_DEC": -107.616744
+    },
+    {
+      "Planta": 144,
+      "NOM_MUN": "García",
+      "LAT_DEC": 25.800492,
+      "LON_DEC": -100.585469
+    },
+    {
+      "Planta": 145,
+      "NOM_MUN": "General Enrique Estrada",
+      "LAT_DEC": 22.995123,
+      "LON_DEC": -102.740013
+    },
+    {
+      "Planta": 146,
+      "NOM_MUN": "Gómez Farías",
+      "LAT_DEC": 29.357019,
+      "LON_DEC": -107.738655
+    },
+    {
+      "Planta": 147,
+      "NOM_MUN": "Granados",
+      "LAT_DEC": 29.862293,
+      "LON_DEC": -109.310522
+    },
+    {
+      "Planta": 148,
+      "NOM_MUN": "Guadalupe y Calvo",
+      "LAT_DEC": 26.094516,
+      "LON_DEC": -106.964369
+    },
+    {
+      "Planta": 149,
+      "NOM_MUN": "Guelatao de Juárez",
+      "LAT_DEC": 17.318173,
+      "LON_DEC": -96.493683
+    },
+    {
+      "Planta": 150,
+      "NOM_MUN": "Guevea de Humboldt",
+      "LAT_DEC": 16.792614,
+      "LON_DEC": -95.368056
+    },
+    {
+      "Planta": 151,
+      "NOM_MUN": "Gutiérrez Zamora",
+      "LAT_DEC": 20.451932,
+      "LON_DEC": -97.087566
+    },
+    {
+      "Planta": 152,
+      "NOM_MUN": "Heroica Ciudad de Huajuapan de León",
+      "LAT_DEC": 17.806837,
+      "LON_DEC": -97.776236
+    },
+    {
+      "Planta": 153,
+      "NOM_MUN": "Hidalgo",
+      "LAT_DEC": 27.791681,
+      "LON_DEC": -99.876055
+    },
+    {
+      "Planta": 154,
+      "NOM_MUN": "Hidalgo del Parral",
+      "LAT_DEC": 26.922088,
+      "LON_DEC": -105.667143
+    },
+    {
+      "Planta": 155,
+      "NOM_MUN": "Hopelchén",
+      "LAT_DEC": 19.745548,
+      "LON_DEC": -89.845044
+    },
+    {
+      "Planta": 156,
+      "NOM_MUN": "Huachinera",
+      "LAT_DEC": 30.211274,
+      "LON_DEC": -108.958829
+    },
+    {
+      "Planta": 157,
+      "NOM_MUN": "Huajicori",
+      "LAT_DEC": 22.637261,
+      "LON_DEC": -105.319985
+    },
+    {
+      "Planta": 158,
+      "NOM_MUN": "Huamantla",
+      "LAT_DEC": 19.31266,
+      "LON_DEC": -97.923103
+    },
+    {
+      "Planta": 159,
+      "NOM_MUN": "Huásabas",
+      "LAT_DEC": 29.904188,
+      "LON_DEC": -109.301469
+    },
+    {
+      "Planta": 160,
+      "NOM_MUN": "Huauchinango",
+      "LAT_DEC": 20.174698,
+      "LON_DEC": -98.05134
+    },
+    {
+      "Planta": 161,
+      "NOM_MUN": "Huautla",
+      "LAT_DEC": 21.031387,
+      "LON_DEC": -98.286821
+    },
+    {
+      "Planta": 162,
+      "NOM_MUN": "Huehuetla",
+      "LAT_DEC": 20.460306,
+      "LON_DEC": -98.078424
+    },
+    {
+      "Planta": 163,
+      "NOM_MUN": "Huehuetla",
+      "LAT_DEC": 20.460306,
+      "LON_DEC": -98.078424
+    },
+    {
+      "Planta": 164,
+      "NOM_MUN": "Huehuetoca",
+      "LAT_DEC": 19.833622,
+      "LON_DEC": -99.204138
+    },
+    {
+      "Planta": 165,
+      "NOM_MUN": "Huejotzingo",
+      "LAT_DEC": 19.159008,
+      "LON_DEC": -98.408033
+    },
+    {
+      "Planta": 166,
+      "NOM_MUN": "Huejuquilla el Alto",
+      "LAT_DEC": 22.628611,
+      "LON_DEC": -103.894167
+    },
+    {
+      "Planta": 167,
+      "NOM_MUN": "Hueyapan de Ocampo",
+      "LAT_DEC": 18.151858,
+      "LON_DEC": -95.142684
+    },
+    {
+      "Planta": 168,
+      "NOM_MUN": "Hueyotlipan",
+      "LAT_DEC": 19.469988,
+      "LON_DEC": -98.348498
+    },
+    {
+      "Planta": 169,
+      "NOM_MUN": "Hueytamalco",
+      "LAT_DEC": 19.939479,
+      "LON_DEC": -97.289041
+    },
+    {
+      "Planta": 170,
+      "NOM_MUN": "Huiloapan de Cuauhtémoc",
+      "LAT_DEC": 18.816577,
+      "LON_DEC": -97.15592
+    },
+    {
+      "Planta": 171,
+      "NOM_MUN": "Huitiupán",
+      "LAT_DEC": 17.173232,
+      "LON_DEC": -92.685932
+    },
+    {
+      "Planta": 172,
+      "NOM_MUN": "Huixtán",
+      "LAT_DEC": 16.712151,
+      "LON_DEC": -92.454597
+    },
+    {
+      "Planta": 173,
+      "NOM_MUN": "Igualapa",
+      "LAT_DEC": 16.743713,
+      "LON_DEC": -98.476618
+    },
+    {
+      "Planta": 174,
+      "NOM_MUN": "Iliatenco",
+      "LAT_DEC": 17.045531,
+      "LON_DEC": -98.685811
+    },
+    {
+      "Planta": 175,
+      "NOM_MUN": "Irapuato",
+      "LAT_DEC": 20.672801,
+      "LON_DEC": -101.348117
+    },
+    {
+      "Planta": 176,
+      "NOM_MUN": "Ixcateopan de Cuauhtémoc",
+      "LAT_DEC": 18.502452,
+      "LON_DEC": -99.793569
+    },
+    {
+      "Planta": 177,
+      "NOM_MUN": "Ixcatepec",
+      "LAT_DEC": 21.237634,
+      "LON_DEC": -98.005952
+    },
+    {
+      "Planta": 178,
+      "NOM_MUN": "Ixhuacán de los Reyes",
+      "LAT_DEC": 19.355946,
+      "LON_DEC": -97.11528
+    },
+    {
+      "Planta": 179,
+      "NOM_MUN": "Ixhuatlán del Café",
+      "LAT_DEC": 19.051157,
+      "LON_DEC": -96.984325
+    },
+    {
+      "Planta": 180,
+      "NOM_MUN": "Ixmiquilpan",
+      "LAT_DEC": 20.484868,
+      "LON_DEC": -99.218774
+    },
+    {
+      "Planta": 181,
+      "NOM_MUN": "Ixtacamaxtitlán",
+      "LAT_DEC": 19.623603,
+      "LON_DEC": -97.81657
+    },
+    {
+      "Planta": 182,
+      "NOM_MUN": "Ixtapan de la Sal",
+      "LAT_DEC": 18.844606,
+      "LON_DEC": -99.675823
+    },
+    {
+      "Planta": 183,
+      "NOM_MUN": "Ixtepec",
+      "LAT_DEC": 20.024937,
+      "LON_DEC": -97.646779
+    },
+    {
+      "Planta": 184,
+      "NOM_MUN": "Ixtlahuacán",
+      "LAT_DEC": 19.001184,
+      "LON_DEC": -103.738593
+    },
+    {
+      "Planta": 185,
+      "NOM_MUN": "Izúcar de Matamoros",
+      "LAT_DEC": 18.602231,
+      "LON_DEC": -98.465406
+    },
+    {
+      "Planta": 186,
+      "NOM_MUN": "Jala",
+      "LAT_DEC": 21.104821,
+      "LON_DEC": -104.438217
+    },
+    {
+      "Planta": 187,
+      "NOM_MUN": "Jalostotitlán",
+      "LAT_DEC": 21.168611,
+      "LON_DEC": -102.461111
+    },
+    {
+      "Planta": 188,
+      "NOM_MUN": "Jalpan",
+      "LAT_DEC": 20.480096,
+      "LON_DEC": -97.942631
+    },
+    {
+      "Planta": 189,
+      "NOM_MUN": "Jilotlán de los Dolores",
+      "LAT_DEC": 19.370556,
+      "LON_DEC": -103.019722
+    },
+    {
+      "Planta": 190,
+      "NOM_MUN": "Jiquipilco",
+      "LAT_DEC": 19.557599,
+      "LON_DEC": -99.6086
+    },
+    {
+      "Planta": 191,
+      "NOM_MUN": "Jolalpan",
+      "LAT_DEC": 18.320517,
+      "LON_DEC": -98.844298
+    },
+    {
+      "Planta": 192,
+      "NOM_MUN": "Jonacatepec de Leandro Valle",
+      "LAT_DEC": 18.68069,
+      "LON_DEC": -98.803223
+    },
+    {
+      "Planta": 193,
+      "NOM_MUN": "Jonotla",
+      "LAT_DEC": 20.03038,
+      "LON_DEC": -97.574905
+    },
+    {
+      "Planta": 194,
+      "NOM_MUN": "Jopala",
+      "LAT_DEC": 20.1628,
+      "LON_DEC": -97.69292
+    },
+    {
+      "Planta": 195,
+      "NOM_MUN": "José María Morelos",
+      "LAT_DEC": 19.418438,
+      "LON_DEC": -88.829156
+    },
+    {
+      "Planta": 196,
+      "NOM_MUN": "Juan Aldama",
+      "LAT_DEC": 24.290481,
+      "LON_DEC": -103.39359
+    },
+    {
+      "Planta": 197,
+      "NOM_MUN": "Juan Rodríguez Clara",
+      "LAT_DEC": 17.994004,
+      "LON_DEC": -95.401354
+    },
+    {
+      "Planta": 198,
+      "NOM_MUN": "Juárez",
+      "LAT_DEC": 27.606506,
+      "LON_DEC": -100.72712
+    },
+    {
+      "Planta": 199,
+      "NOM_MUN": "Juárez",
+      "LAT_DEC": 27.606506,
+      "LON_DEC": -100.72712
+    },
+    {
+      "Planta": 200,
+      "NOM_MUN": "Juárez Hidalgo",
+      "LAT_DEC": 20.783717,
+      "LON_DEC": -98.828861
+    },
+    {
+      "Planta": 201,
+      "NOM_MUN": "Kanasín",
+      "LAT_DEC": 20.93464,
+      "LON_DEC": -89.558059
+    },
+    {
+      "Planta": 202,
+      "NOM_MUN": "Kaua",
+      "LAT_DEC": 20.620086,
+      "LON_DEC": -88.414617
+    },
+    {
+      "Planta": 203,
+      "NOM_MUN": "La Concordia",
+      "LAT_DEC": 16.116716,
+      "LON_DEC": -92.687934
+    },
+    {
+      "Planta": 204,
+      "NOM_MUN": "La Magdalena Tlatlauquitepec",
+      "LAT_DEC": 18.75852,
+      "LON_DEC": -98.100701
+    },
+    {
+      "Planta": 205,
+      "NOM_MUN": "La Manzanilla de la Paz",
+      "LAT_DEC": 20.004444,
+      "LON_DEC": -103.15
+    },
+    {
+      "Planta": 206,
+      "NOM_MUN": "La Paz",
+      "LAT_DEC": 24.142222,
+      "LON_DEC": -110.310833
+    },
+    {
+      "Planta": 207,
+      "NOM_MUN": "La Reforma",
+      "LAT_DEC": 16.623315,
+      "LON_DEC": -97.844498
+    },
+    {
+      "Planta": 208,
+      "NOM_MUN": "La Trinidad Vista Hermosa",
+      "LAT_DEC": 17.77263,
+      "LON_DEC": -97.505751
+    },
+    {
+      "Planta": 209,
+      "NOM_MUN": "La Trinitaria",
+      "LAT_DEC": 16.119059,
+      "LON_DEC": -92.050469
+    },
+    {
+      "Planta": 210,
+      "NOM_MUN": "Lagos de Moreno",
+      "LAT_DEC": 21.356389,
+      "LON_DEC": -101.929167
+    },
+    {
+      "Planta": 211,
+      "NOM_MUN": "Landa de Matamoros",
+      "LAT_DEC": 21.183456,
+      "LON_DEC": -99.321915
+    },
+    {
+      "Planta": 212,
+      "NOM_MUN": "Las Rosas",
+      "LAT_DEC": 16.364132,
+      "LON_DEC": -92.369581
+    },
+    {
+      "Planta": 213,
+      "NOM_MUN": "Lerdo",
+      "LAT_DEC": 25.536552,
+      "LON_DEC": -103.524849
+    },
+    {
+      "Planta": 214,
+      "NOM_MUN": "Lerdo de Tejada",
+      "LAT_DEC": 18.6282,
+      "LON_DEC": -95.523222
+    },
+    {
+      "Planta": 215,
+      "NOM_MUN": "Lolotla",
+      "LAT_DEC": 20.841164,
+      "LON_DEC": -98.717289
+    },
+    {
+      "Planta": 216,
+      "NOM_MUN": "Loreto",
+      "LAT_DEC": 26.012778,
+      "LON_DEC": -111.343333
+    },
+    {
+      "Planta": 217,
+      "NOM_MUN": "Los Ramones",
+      "LAT_DEC": 25.696392,
+      "LON_DEC": -99.624031
+    },
+    {
+      "Planta": 218,
+      "NOM_MUN": "Los Reyes",
+      "LAT_DEC": 19.588974,
+      "LON_DEC": -102.474679
+    },
+    {
+      "Planta": 219,
+      "NOM_MUN": "Macuspana",
+      "LAT_DEC": 17.756431,
+      "LON_DEC": -92.594071
+    },
+    {
+      "Planta": 220,
+      "NOM_MUN": "Magdalena",
+      "LAT_DEC": 20.906389,
+      "LON_DEC": -103.976111
+    },
+    {
+      "Planta": 221,
+      "NOM_MUN": "Magdalena",
+      "LAT_DEC": 20.906389,
+      "LON_DEC": -103.976111
+    },
+    {
+      "Planta": 222,
+      "NOM_MUN": "Magdalena Mixtepec",
+      "LAT_DEC": 16.896112,
+      "LON_DEC": -96.907728
+    },
+    {
+      "Planta": 223,
+      "NOM_MUN": "Magdalena Teitipac",
+      "LAT_DEC": 16.906621,
+      "LON_DEC": -96.558739
+    },
+    {
+      "Planta": 224,
+      "NOM_MUN": "Magdalena Tlacotepec",
+      "LAT_DEC": 16.503966,
+      "LON_DEC": -95.203306
+    },
+    {
+      "Planta": 225,
+      "NOM_MUN": "Magdalena Yodocono de Porfirio Díaz",
+      "LAT_DEC": 17.385094,
+      "LON_DEC": -97.354976
+    },
+    {
+      "Planta": 226,
+      "NOM_MUN": "Mama",
+      "LAT_DEC": 20.477398,
+      "LON_DEC": -89.365579
+    },
+    {
+      "Planta": 227,
+      "NOM_MUN": "Martínez de la Torre",
+      "LAT_DEC": 20.073388,
+      "LON_DEC": -97.05384
+    },
+    {
+      "Planta": 228,
+      "NOM_MUN": "Matías Romero Avendaño",
+      "LAT_DEC": 16.877889,
+      "LON_DEC": -95.042149
+    },
+    {
+      "Planta": 229,
+      "NOM_MUN": "Mazamitla",
+      "LAT_DEC": 19.917222,
+      "LON_DEC": -103.020278
+    },
+    {
+      "Planta": 230,
+      "NOM_MUN": "Mazapil",
+      "LAT_DEC": 24.638097,
+      "LON_DEC": -101.554967
+    },
+    {
+      "Planta": 231,
+      "NOM_MUN": "Mazatepec",
+      "LAT_DEC": 18.733184,
+      "LON_DEC": -99.366972
+    },
+    {
+      "Planta": 232,
+      "NOM_MUN": "Mecatlán",
+      "LAT_DEC": 20.210656,
+      "LON_DEC": -97.68174
+    },
+    {
+      "Planta": 233,
+      "NOM_MUN": "Mecayapan",
+      "LAT_DEC": 18.221457,
+      "LON_DEC": -94.837643
+    },
+    {
+      "Planta": 234,
+      "NOM_MUN": "Melchor Ocampo",
+      "LAT_DEC": 19.710414,
+      "LON_DEC": -99.143458
+    },
+    {
+      "Planta": 235,
+      "NOM_MUN": "Melchor Ocampo",
+      "LAT_DEC": 19.710414,
+      "LON_DEC": -99.143458
+    },
+    {
+      "Planta": 236,
+      "NOM_MUN": "Méndez",
+      "LAT_DEC": 25.116548,
+      "LON_DEC": -98.586217
+    },
+    {
+      "Planta": 237,
+      "NOM_MUN": "Mesones Hidalgo",
+      "LAT_DEC": 16.915356,
+      "LON_DEC": -97.966546
+    },
+    {
+      "Planta": 238,
+      "NOM_MUN": "Metztitlán",
+      "LAT_DEC": 20.5947,
+      "LON_DEC": -98.764144
+    },
+    {
+      "Planta": 239,
+      "NOM_MUN": "Mier",
+      "LAT_DEC": 26.43047,
+      "LON_DEC": -99.148694
+    },
+    {
+      "Planta": 240,
+      "NOM_MUN": "Miguel Auza",
+      "LAT_DEC": 24.294446,
+      "LON_DEC": -103.451449
+    },
+    {
+      "Planta": 241,
+      "NOM_MUN": "Montecristo de Guerrero",
+      "LAT_DEC": 15.693918,
+      "LON_DEC": -92.61926
+    },
+    {
+      "Planta": 242,
+      "NOM_MUN": "Morelos",
+      "LAT_DEC": 28.410104,
+      "LON_DEC": -100.886631
+    },
+    {
+      "Planta": 243,
+      "NOM_MUN": "Moroleón",
+      "LAT_DEC": 20.13187,
+      "LON_DEC": -101.189209
+    },
+    {
+      "Planta": 244,
+      "NOM_MUN": "Muna",
+      "LAT_DEC": 20.483953,
+      "LON_DEC": -89.713378
+    },
+    {
+      "Planta": 245,
+      "NOM_MUN": "Nahuatzen",
+      "LAT_DEC": 19.654073,
+      "LON_DEC": -101.917137
+    },
+    {
+      "Planta": 246,
+      "NOM_MUN": "Naupan",
+      "LAT_DEC": 20.228472,
+      "LON_DEC": -98.109733
+    },
+    {
+      "Planta": 247,
+      "NOM_MUN": "Navolato",
+      "LAT_DEC": 24.767219,
+      "LON_DEC": -107.69676
+    },
+    {
+      "Planta": 248,
+      "NOM_MUN": "Nopala de Villagrán",
+      "LAT_DEC": 20.251744,
+      "LON_DEC": -99.644328
+    },
+    {
+      "Planta": 249,
+      "NOM_MUN": "Noria de Ángeles",
+      "LAT_DEC": 22.442701,
+      "LON_DEC": -101.908896
+    },
+    {
+      "Planta": 250,
+      "NOM_MUN": "Numarán",
+      "LAT_DEC": 20.2549,
+      "LON_DEC": -101.947197
+    },
+    {
+      "Planta": 251,
+      "NOM_MUN": "Ocoyoacac",
+      "LAT_DEC": 19.269281,
+      "LON_DEC": -99.455695
+    },
+    {
+      "Planta": 252,
+      "NOM_MUN": "Ojocaliente",
+      "LAT_DEC": 22.571967,
+      "LON_DEC": -102.252934
+    },
+    {
+      "Planta": 253,
+      "NOM_MUN": "Oriental",
+      "LAT_DEC": 19.375803,
+      "LON_DEC": -97.619351
+    },
+    {
+      "Planta": 254,
+      "NOM_MUN": "Palmillas",
+      "LAT_DEC": 23.301759,
+      "LON_DEC": -99.547539
+    },
+    {
+      "Planta": 255,
+      "NOM_MUN": "Peñón Blanco",
+      "LAT_DEC": 24.792509,
+      "LON_DEC": -104.034267
+    },
+    {
+      "Planta": 256,
+      "NOM_MUN": "Rayón",
+      "LAT_DEC": 17.200503,
+      "LON_DEC": -93.011217
+    },
+    {
+      "Planta": 257,
+      "NOM_MUN": "Reynosa",
+      "LAT_DEC": 26.09235,
+      "LON_DEC": -98.278129
+    },
+    {
+      "Planta": 258,
+      "NOM_MUN": "San Agustín de las Juntas",
+      "LAT_DEC": 17.01166,
+      "LON_DEC": -96.711441
+    },
+    {
+      "Planta": 259,
+      "NOM_MUN": "San Bartolo Tutotepec",
+      "LAT_DEC": 20.399143,
+      "LON_DEC": -98.20206
+    },
+    {
+      "Planta": 260,
+      "NOM_MUN": "San Felipe Teotlalcingo",
+      "LAT_DEC": 19.235725,
+      "LON_DEC": -98.495455
+    },
+    {
+      "Planta": 261,
+      "NOM_MUN": "San Francisco Cahuacuá",
+      "LAT_DEC": 16.893563,
+      "LON_DEC": -97.305594
+    },
+    {
+      "Planta": 262,
+      "NOM_MUN": "San Juan Atepec",
+      "LAT_DEC": 17.426393,
+      "LON_DEC": -96.539133
+    },
+    {
+      "Planta": 263,
+      "NOM_MUN": "San Juan Bautista Atatlahuca",
+      "LAT_DEC": 17.531096,
+      "LON_DEC": -96.829941
+    },
+    {
+      "Planta": 264,
+      "NOM_MUN": "San Juan Bautista Cuicatlán",
+      "LAT_DEC": 17.801548,
+      "LON_DEC": -96.959567
+    },
+    {
+      "Planta": 265,
+      "NOM_MUN": "San Juan Bautista Tlachichilco",
+      "LAT_DEC": 17.622548,
+      "LON_DEC": -98.343993
+    },
+    {
+      "Planta": 266,
+      "NOM_MUN": "San Juan Lachigalla",
+      "LAT_DEC": 16.591718,
+      "LON_DEC": -96.54884
+    },
+    {
+      "Planta": 267,
+      "NOM_MUN": "San Miguel Totolapan",
+      "LAT_DEC": 18.161267,
+      "LON_DEC": -100.390821
+    },
+    {
+      "Planta": 268,
+      "NOM_MUN": "San Nicolás Buenos Aires",
+      "LAT_DEC": 19.161897,
+      "LON_DEC": -97.548412
+    },
+    {
+      "Planta": 269,
+      "NOM_MUN": "San Pablo Anicano",
+      "LAT_DEC": 18.124454,
+      "LON_DEC": -98.084033
+    },
+    {
+      "Planta": 270,
+      "NOM_MUN": "San Pablo Huitzo",
+      "LAT_DEC": 17.277367,
+      "LON_DEC": -96.884496
+    },
+    {
+      "Planta": 271,
+      "NOM_MUN": "San Pablo Tijaltepec",
+      "LAT_DEC": 17.017658,
+      "LON_DEC": -97.499963
+    },
+    {
+      "Planta": 272,
+      "NOM_MUN": "San Pedro Coxcaltepec Cántaros",
+      "LAT_DEC": 17.498849,
+      "LON_DEC": -97.135813
+    },
+    {
+      "Planta": 273,
+      "NOM_MUN": "San Pedro el Alto",
+      "LAT_DEC": 16.033616,
+      "LON_DEC": -96.473723
+    },
+    {
+      "Planta": 274,
+      "NOM_MUN": "San Pedro Nopala",
+      "LAT_DEC": 17.806294,
+      "LON_DEC": -97.541307
+    },
+    {
+      "Planta": 275,
+      "NOM_MUN": "San Pedro Ocopetatillo",
+      "LAT_DEC": 18.184936,
+      "LON_DEC": -96.913153
+    },
+    {
+      "Planta": 276,
+      "NOM_MUN": "San Pedro Teozacoalco",
+      "LAT_DEC": 17.017126,
+      "LON_DEC": -97.286098
+    },
+    {
+      "Planta": 277,
+      "NOM_MUN": "San Pedro Tidaá",
+      "LAT_DEC": 17.340764,
+      "LON_DEC": -97.377273
+    },
+    {
+      "Planta": 278,
+      "NOM_MUN": "San Pedro Totolápam",
+      "LAT_DEC": 16.666444,
+      "LON_DEC": -96.301907
+    },
+    {
+      "Planta": 279,
+      "NOM_MUN": "San Pedro y San Pablo Ayutla",
+      "LAT_DEC": 17.027151,
+      "LON_DEC": -96.077082
+    },
+    {
+      "Planta": 280,
+      "NOM_MUN": "San Pedro y San Pablo Tequixtepec",
+      "LAT_DEC": 18.060656,
+      "LON_DEC": -97.717846
+    },
+    {
+      "Planta": 281,
+      "NOM_MUN": "San Pedro Yaneri",
+      "LAT_DEC": 17.419356,
+      "LON_DEC": -96.354571
+    },
+    {
+      "Planta": 282,
+      "NOM_MUN": "San Pedro Yucunama",
+      "LAT_DEC": 17.561004,
+      "LON_DEC": -97.482591
+    },
+    {
+      "Planta": 283,
+      "NOM_MUN": "San Salvador",
+      "LAT_DEC": 20.284568,
+      "LON_DEC": -99.015604
+    },
+    {
+      "Planta": 284,
+      "NOM_MUN": "San Sebastián del Oeste",
+      "LAT_DEC": 20.760833,
+      "LON_DEC": -104.851667
+    },
+    {
+      "Planta": 285,
+      "NOM_MUN": "San Sebastián Río Hondo",
+      "LAT_DEC": 16.182831,
+      "LON_DEC": -96.464061
+    },
+    {
+      "Planta": 286,
+      "NOM_MUN": "San Simón Zahuatlán",
+      "LAT_DEC": 17.828853,
+      "LON_DEC": -98.004528
+    },
+    {
+      "Planta": 287,
+      "NOM_MUN": "Santa Ana Tavela",
+      "LAT_DEC": 16.65465,
+      "LON_DEC": -95.911568
+    },
+    {
+      "Planta": 288,
+      "NOM_MUN": "Santa Bárbara",
+      "LAT_DEC": 26.8021,
+      "LON_DEC": -105.8181
+    },
+    {
+      "Planta": 289,
+      "NOM_MUN": "Santa Catarina Cuixtla",
+      "LAT_DEC": 16.304396,
+      "LON_DEC": -96.644744
+    },
+    {
+      "Planta": 290,
+      "NOM_MUN": "Santa Catarina Ixtepeji",
+      "LAT_DEC": 17.265549,
+      "LON_DEC": -96.561699
+    },
+    {
+      "Planta": 291,
+      "NOM_MUN": "Santa Catarina Loxicha",
+      "LAT_DEC": 16.069504,
+      "LON_DEC": -96.754866
+    },
+    {
+      "Planta": 292,
+      "NOM_MUN": "Santa Catarina Tlaltempan",
+      "LAT_DEC": 18.614263,
+      "LON_DEC": -98.0799
+    },
+    {
+      "Planta": 293,
+      "NOM_MUN": "Santa Catarina Zapoquila",
+      "LAT_DEC": 18.064558,
+      "LON_DEC": -97.601655
+    },
+    {
+      "Planta": 294,
+      "NOM_MUN": "Santa Cruz Quilehtla",
+      "LAT_DEC": 19.21318,
+      "LON_DEC": -98.222018
+    },
+    {
+      "Planta": 295,
+      "NOM_MUN": "Santa Elena",
+      "LAT_DEC": 20.328898,
+      "LON_DEC": -89.643259
+    },
+    {
+      "Planta": 296,
+      "NOM_MUN": "Santa Isabel",
+      "LAT_DEC": 28.343346,
+      "LON_DEC": -106.368054
+    },
+    {
+      "Planta": 297,
+      "NOM_MUN": "Santa Lucía Miahuatlán",
+      "LAT_DEC": 16.186473,
+      "LON_DEC": -96.618211
+    },
+    {
+      "Planta": 298,
+      "NOM_MUN": "Santa María Chachoápam",
+      "LAT_DEC": 17.525156,
+      "LON_DEC": -97.283505
+    },
+    {
+      "Planta": 299,
+      "NOM_MUN": "Santa María Coyotepec",
+      "LAT_DEC": 16.967161,
+      "LON_DEC": -96.706736
+    },
+    {
+      "Planta": 300,
+      "NOM_MUN": "Santa María Ecatepec",
+      "LAT_DEC": 16.284183,
+      "LON_DEC": -95.88113
+    },
+    {
+      "Planta": 301,
+      "NOM_MUN": "Santa María Guelacé",
+      "LAT_DEC": 17.000877,
+      "LON_DEC": -96.60283
+    },
+    {
+      "Planta": 302,
+      "NOM_MUN": "Santa María Huazolotitlán",
+      "LAT_DEC": 16.302222,
+      "LON_DEC": -97.912861
+    },
+    {
+      "Planta": 303,
+      "NOM_MUN": "Santa María la Asunción",
+      "LAT_DEC": 18.108224,
+      "LON_DEC": -96.819365
+    },
+    {
+      "Planta": 304,
+      "NOM_MUN": "Santa María Ozolotepec",
+      "LAT_DEC": 16.130841,
+      "LON_DEC": -96.370067
+    },
+    {
+      "Planta": 305,
+      "NOM_MUN": "Santa María Pápalo",
+      "LAT_DEC": 17.78416,
+      "LON_DEC": -96.797356
+    },
+    {
+      "Planta": 306,
+      "NOM_MUN": "Santa María Teopoxco",
+      "LAT_DEC": 18.166659,
+      "LON_DEC": -96.955139
+    },
+    {
+      "Planta": 307,
+      "NOM_MUN": "Santa María Totolapilla",
+      "LAT_DEC": 16.603228,
+      "LON_DEC": -95.625455
+    },
+    {
+      "Planta": 308,
+      "NOM_MUN": "Santa María Yosoyúa",
+      "LAT_DEC": 17.120186,
+      "LON_DEC": -97.514792
+    },
+    {
+      "Planta": 309,
+      "NOM_MUN": "Santa María Zacatepec",
+      "LAT_DEC": 16.763894,
+      "LON_DEC": -97.989878
+    },
+    {
+      "Planta": 310,
+      "NOM_MUN": "Santiago",
+      "LAT_DEC": 25.4271,
+      "LON_DEC": -100.153011
+    },
+    {
+      "Planta": 311,
+      "NOM_MUN": "Santiago Camotlán",
+      "LAT_DEC": 17.446267,
+      "LON_DEC": -96.184656
+    },
+    {
+      "Planta": 312,
+      "NOM_MUN": "Santiago de Anaya",
+      "LAT_DEC": 20.382582,
+      "LON_DEC": -98.963953
+    },
+    {
+      "Planta": 313,
+      "NOM_MUN": "Santiago del Río",
+      "LAT_DEC": 17.455975,
+      "LON_DEC": -98.08854
+    },
+    {
+      "Planta": 314,
+      "NOM_MUN": "Santiago el Pinar",
+      "LAT_DEC": 16.941438,
+      "LON_DEC": -92.714596
+    },
+    {
+      "Planta": 315,
+      "NOM_MUN": "Santiago Huauclilla",
+      "LAT_DEC": 17.450841,
+      "LON_DEC": -97.071527
+    },
+    {
+      "Planta": 316,
+      "NOM_MUN": "Santiago Ihuitlán Plumas",
+      "LAT_DEC": 17.848474,
+      "LON_DEC": -97.429743
+    },
+    {
+      "Planta": 317,
+      "NOM_MUN": "Santiago Ixcuintepec",
+      "LAT_DEC": 16.934806,
+      "LON_DEC": -95.623106
+    },
+    {
+      "Planta": 318,
+      "NOM_MUN": "Santiago Jamiltepec",
+      "LAT_DEC": 16.279458,
+      "LON_DEC": -97.819682
+    },
+    {
+      "Planta": 319,
+      "NOM_MUN": "Santiago Laxopa",
+      "LAT_DEC": 17.219758,
+      "LON_DEC": -96.313396
+    },
+    {
+      "Planta": 320,
+      "NOM_MUN": "Santiago Maravatío",
+      "LAT_DEC": 20.172407,
+      "LON_DEC": -100.995226
+    },
+    {
+      "Planta": 321,
+      "NOM_MUN": "Santiago Matatlán",
+      "LAT_DEC": 16.866099,
+      "LON_DEC": -96.383423
+    },
+    {
+      "Planta": 322,
+      "NOM_MUN": "Santiago Miahuatlán",
+      "LAT_DEC": 18.553155,
+      "LON_DEC": -97.441853
+    },
+    {
+      "Planta": 323,
+      "NOM_MUN": "Santiago Nacaltepec",
+      "LAT_DEC": 17.505474,
+      "LON_DEC": -96.916496
+    },
+    {
+      "Planta": 324,
+      "NOM_MUN": "Santiago Nejapilla",
+      "LAT_DEC": 17.420284,
+      "LON_DEC": -97.372616
+    },
+    {
+      "Planta": 325,
+      "NOM_MUN": "Santiago Niltepec",
+      "LAT_DEC": 16.562093,
+      "LON_DEC": -94.613004
+    },
+    {
+      "Planta": 326,
+      "NOM_MUN": "Santiago Tapextla",
+      "LAT_DEC": 16.34097,
+      "LON_DEC": -98.447474
+    },
+    {
+      "Planta": 327,
+      "NOM_MUN": "Santiago Tilantongo",
+      "LAT_DEC": 17.283077,
+      "LON_DEC": -97.339804
+    },
+    {
+      "Planta": 328,
+      "NOM_MUN": "Santiago Tuxtla",
+      "LAT_DEC": 18.465643,
+      "LON_DEC": -95.301754
+    },
+    {
+      "Planta": 329,
+      "NOM_MUN": "Santiago Yaveo",
+      "LAT_DEC": 17.335828,
+      "LON_DEC": -95.700692
+    },
+    {
+      "Planta": 330,
+      "NOM_MUN": "Santo Domingo Armenta",
+      "LAT_DEC": 16.332972,
+      "LON_DEC": -98.378152
+    },
+    {
+      "Planta": 331,
+      "NOM_MUN": "Santo Domingo Ingenio",
+      "LAT_DEC": 16.588492,
+      "LON_DEC": -94.76863
+    },
+    {
+      "Planta": 332,
+      "NOM_MUN": "Santo Domingo Ixcatlán",
+      "LAT_DEC": 16.913927,
+      "LON_DEC": -97.531934
+    },
+    {
+      "Planta": 333,
+      "NOM_MUN": "Santo Domingo Nuxaá",
+      "LAT_DEC": 17.221897,
+      "LON_DEC": -97.12071
+    },
+    {
+      "Planta": 334,
+      "NOM_MUN": "Santo Domingo Petapa",
+      "LAT_DEC": 16.820669,
+      "LON_DEC": -95.140423
+    },
+    {
+      "Planta": 335,
+      "NOM_MUN": "Santo Domingo Roayaga",
+      "LAT_DEC": 17.337631,
+      "LON_DEC": -96.114573
+    },
+    {
+      "Planta": 336,
+      "NOM_MUN": "Santo Domingo Teojomulco",
+      "LAT_DEC": 16.589403,
+      "LON_DEC": -97.226188
+    },
+    {
+      "Planta": 337,
+      "NOM_MUN": "Santo Domingo Tepuxtepec",
+      "LAT_DEC": 16.956887,
+      "LON_DEC": -96.055406
+    },
+    {
+      "Planta": 338,
+      "NOM_MUN": "Santo Domingo Tlatayápam",
+      "LAT_DEC": 17.407468,
+      "LON_DEC": -97.347023
+    },
+    {
+      "Planta": 339,
+      "NOM_MUN": "Santo Domingo Tonaltepec",
+      "LAT_DEC": 17.610857,
+      "LON_DEC": -97.360082
+    },
+    {
+      "Planta": 340,
+      "NOM_MUN": "Santo Tomás Hueyotlipan",
+      "LAT_DEC": 18.891089,
+      "LON_DEC": -97.867231
+    },
+    {
+      "Planta": 341,
+      "NOM_MUN": "Santos Reyes Yucuná",
+      "LAT_DEC": 17.777741,
+      "LON_DEC": -98.004527
+    },
+    {
+      "Planta": 342,
+      "NOM_MUN": "Silacayoápam",
+      "LAT_DEC": 17.501447,
+      "LON_DEC": -98.142585
+    },
+    {
+      "Planta": 343,
+      "NOM_MUN": "Sitalá",
+      "LAT_DEC": 17.025051,
+      "LON_DEC": -92.307743
+    },
+    {
+      "Planta": 344,
+      "NOM_MUN": "Soyopa",
+      "LAT_DEC": 28.764215,
+      "LON_DEC": -109.634631
+    },
+    {
+      "Planta": 345,
+      "NOM_MUN": "Tapalapa",
+      "LAT_DEC": 17.190048,
+      "LON_DEC": -93.104605
+    },
+    {
+      "Planta": 346,
+      "NOM_MUN": "Tapilula",
+      "LAT_DEC": 17.248403,
+      "LON_DEC": -93.016258
+    },
+    {
+      "Planta": 347,
+      "NOM_MUN": "Taretan",
+      "LAT_DEC": 19.334562,
+      "LON_DEC": -101.917904
+    },
+    {
+      "Planta": 348,
+      "NOM_MUN": "Tecoh",
+      "LAT_DEC": 20.741726,
+      "LON_DEC": -89.474302
+    },
+    {
+      "Planta": 349,
+      "NOM_MUN": "Tekal de Venegas",
+      "LAT_DEC": 21.014073,
+      "LON_DEC": -88.947005
+    },
+    {
+      "Planta": 350,
+      "NOM_MUN": "Temixco",
+      "LAT_DEC": 18.845273,
+      "LON_DEC": -99.224143
+    },
+    {
+      "Planta": 351,
+      "NOM_MUN": "Temósachic",
+      "LAT_DEC": 28.952758,
+      "LON_DEC": -107.829839
+    },
+    {
+      "Planta": 352,
+      "NOM_MUN": "Teocaltiche",
+      "LAT_DEC": 21.434444,
+      "LON_DEC": -102.570278
+    },
+    {
+      "Planta": 353,
+      "NOM_MUN": "Teocuitatlán de Corona",
+      "LAT_DEC": 20.093333,
+      "LON_DEC": -103.38
+    },
+    {
+      "Planta": 354,
+      "NOM_MUN": "Teolocholco",
+      "LAT_DEC": 19.244394,
+      "LON_DEC": -98.192351
+    },
+    {
+      "Planta": 355,
+      "NOM_MUN": "Teotitlán de Flores Magón",
+      "LAT_DEC": 18.132334,
+      "LON_DEC": -97.070704
+    },
+    {
+      "Planta": 356,
+      "NOM_MUN": "Teotlalco",
+      "LAT_DEC": 18.469623,
+      "LON_DEC": -98.778269
+    },
+    {
+      "Planta": 357,
+      "NOM_MUN": "Tepache",
+      "LAT_DEC": 29.534399,
+      "LON_DEC": -109.532373
+    },
+    {
+      "Planta": 358,
+      "NOM_MUN": "Tepalcingo",
+      "LAT_DEC": 18.594736,
+      "LON_DEC": -98.844357
+    },
+    {
+      "Planta": 359,
+      "NOM_MUN": "Tepatlaxco",
+      "LAT_DEC": 19.067345,
+      "LON_DEC": -96.842039
+    },
+    {
+      "Planta": 360,
+      "NOM_MUN": "Tepeapulco",
+      "LAT_DEC": 19.785674,
+      "LON_DEC": -98.553662
+    },
+    {
+      "Planta": 361,
+      "NOM_MUN": "Tepecoacuilco de Trujano",
+      "LAT_DEC": 18.28699,
+      "LON_DEC": -99.466694
+    },
+    {
+      "Planta": 362,
+      "NOM_MUN": "Tepeji del Río de Ocampo",
+      "LAT_DEC": 19.905217,
+      "LON_DEC": -99.341814
+    },
+    {
+      "Planta": 363,
+      "NOM_MUN": "Tepelmeme Villa de Morelos",
+      "LAT_DEC": 17.874806,
+      "LON_DEC": -97.362198
+    },
+    {
+      "Planta": 364,
+      "NOM_MUN": "Tequila",
+      "LAT_DEC": 20.879444,
+      "LON_DEC": -103.835556
+    },
+    {
+      "Planta": 365,
+      "NOM_MUN": "Tequixquiac",
+      "LAT_DEC": 19.910277,
+      "LON_DEC": -99.148913
+    },
+    {
+      "Planta": 366,
+      "NOM_MUN": "Tetela del Volcán",
+      "LAT_DEC": 18.893525,
+      "LON_DEC": -98.730066
+    },
+    {
+      "Planta": 367,
+      "NOM_MUN": "Tetiz",
+      "LAT_DEC": 20.961912,
+      "LON_DEC": -89.933449
+    },
+    {
+      "Planta": 368,
+      "NOM_MUN": "Tetlatlahuca",
+      "LAT_DEC": 19.231639,
+      "LON_DEC": -98.295728
+    },
+    {
+      "Planta": 369,
+      "NOM_MUN": "Teuchitlán",
+      "LAT_DEC": 20.685278,
+      "LON_DEC": -103.849167
+    },
+    {
+      "Planta": 370,
+      "NOM_MUN": "Texhuacán",
+      "LAT_DEC": 18.620638,
+      "LON_DEC": -97.038733
+    },
+    {
+      "Planta": 371,
+      "NOM_MUN": "Texistepec",
+      "LAT_DEC": 17.894277,
+      "LON_DEC": -94.815294
+    },
+    {
+      "Planta": 372,
+      "NOM_MUN": "Teya",
+      "LAT_DEC": 21.048538,
+      "LON_DEC": -89.073709
+    },
+    {
+      "Planta": 373,
+      "NOM_MUN": "Tezonapa",
+      "LAT_DEC": 18.606807,
+      "LON_DEC": -96.687534
+    },
+    {
+      "Planta": 374,
+      "NOM_MUN": "Tianguistengo",
+      "LAT_DEC": 20.728213,
+      "LON_DEC": -98.630851
+    },
+    {
+      "Planta": 375,
+      "NOM_MUN": "Tierra Blanca",
+      "LAT_DEC": 21.100003,
+      "LON_DEC": -100.159154
+    },
+    {
+      "Planta": 376,
+      "NOM_MUN": "Tierra Blanca",
+      "LAT_DEC": 21.100003,
+      "LON_DEC": -100.159154
+    },
+    {
+      "Planta": 377,
+      "NOM_MUN": "Tixtla de Guerrero",
+      "LAT_DEC": 17.566724,
+      "LON_DEC": -99.398271
+    },
+    {
+      "Planta": 378,
+      "NOM_MUN": "Tizayuca",
+      "LAT_DEC": 19.841089,
+      "LON_DEC": -98.981584
+    },
+    {
+      "Planta": 379,
+      "NOM_MUN": "Tlachichilco",
+      "LAT_DEC": 20.621569,
+      "LON_DEC": -98.199049
+    },
+    {
+      "Planta": 380,
+      "NOM_MUN": "Tlacolulan",
+      "LAT_DEC": 19.664859,
+      "LON_DEC": -97.001371
+    },
+    {
+      "Planta": 381,
+      "NOM_MUN": "Tlacotepec de Benito Juárez",
+      "LAT_DEC": 18.682768,
+      "LON_DEC": -97.65354
+    },
+    {
+      "Planta": 382,
+      "NOM_MUN": "Tlacuilotepec",
+      "LAT_DEC": 20.326265,
+      "LON_DEC": -98.068909
+    },
+    {
+      "Planta": 383,
+      "NOM_MUN": "Tlahuiltepa",
+      "LAT_DEC": 20.923913,
+      "LON_DEC": -98.950201
+    },
+    {
+      "Planta": 384,
+      "NOM_MUN": "Tlalixcoyan",
+      "LAT_DEC": 18.802161,
+      "LON_DEC": -96.060888
+    },
+    {
+      "Planta": 385,
+      "NOM_MUN": "Tlalixtac de Cabrera",
+      "LAT_DEC": 17.074484,
+      "LON_DEC": -96.648417
+    },
+    {
+      "Planta": 386,
+      "NOM_MUN": "Tlalnepantla",
+      "LAT_DEC": 19.007927,
+      "LON_DEC": -98.997352
+    },
+    {
+      "Planta": 387,
+      "NOM_MUN": "Tlaltenango",
+      "LAT_DEC": 19.170023,
+      "LON_DEC": -98.344316
+    },
+    {
+      "Planta": 388,
+      "NOM_MUN": "Tlaltenango de Sánchez Román",
+      "LAT_DEC": 21.783042,
+      "LON_DEC": -103.305813
+    },
+    {
+      "Planta": 389,
+      "NOM_MUN": "Tlanepantla",
+      "LAT_DEC": 18.865364,
+      "LON_DEC": -97.887397
+    },
+    {
+      "Planta": 390,
+      "NOM_MUN": "Tlapacoya",
+      "LAT_DEC": 20.123151,
+      "LON_DEC": -97.851374
+    },
+    {
+      "Planta": 391,
+      "NOM_MUN": "Tlapanalá",
+      "LAT_DEC": 18.696144,
+      "LON_DEC": -98.537794
+    },
+    {
+      "Planta": 392,
+      "NOM_MUN": "Tlapehuala",
+      "LAT_DEC": 18.23976,
+      "LON_DEC": -100.541574
+    },
+    {
+      "Planta": 393,
+      "NOM_MUN": "Tlaquilpa",
+      "LAT_DEC": 18.612271,
+      "LON_DEC": -97.118881
+    },
+    {
+      "Planta": 394,
+      "NOM_MUN": "Tlaxcoapan",
+      "LAT_DEC": 20.091614,
+      "LON_DEC": -99.221593
+    },
+    {
+      "Planta": 395,
+      "NOM_MUN": "Tlayacapan",
+      "LAT_DEC": 18.956617,
+      "LON_DEC": -98.983118
+    },
+    {
+      "Planta": 396,
+      "NOM_MUN": "Tolimán",
+      "LAT_DEC": 19.6,
+      "LON_DEC": -103.914444
+    },
+    {
+      "Planta": 397,
+      "NOM_MUN": "Tomatlán",
+      "LAT_DEC": 19.941389,
+      "LON_DEC": -105.245278
+    },
+    {
+      "Planta": 398,
+      "NOM_MUN": "Tonalá",
+      "LAT_DEC": 16.091356,
+      "LON_DEC": -93.751783
+    },
+    {
+      "Planta": 399,
+      "NOM_MUN": "Tonila",
+      "LAT_DEC": 19.410833,
+      "LON_DEC": -103.549444
+    },
+    {
+      "Planta": 400,
+      "NOM_MUN": "Totolapa",
+      "LAT_DEC": 16.544733,
+      "LON_DEC": -92.680376
+    },
+    {
+      "Planta": 401,
+      "NOM_MUN": "Totolapan",
+      "LAT_DEC": 18.987223,
+      "LON_DEC": -98.921439
+    },
+    {
+      "Planta": 402,
+      "NOM_MUN": "Totoltepec de Guerrero",
+      "LAT_DEC": 18.222541,
+      "LON_DEC": -97.855134
+    },
+    {
+      "Planta": 403,
+      "NOM_MUN": "Totutla",
+      "LAT_DEC": 19.211286,
+      "LON_DEC": -96.961295
+    },
+    {
+      "Planta": 404,
+      "NOM_MUN": "Tres Valles",
+      "LAT_DEC": 18.240922,
+      "LON_DEC": -96.134797
+    },
+    {
+      "Planta": 405,
+      "NOM_MUN": "Trincheras",
+      "LAT_DEC": 30.398621,
+      "LON_DEC": -111.531483
+    },
+    {
+      "Planta": 406,
+      "NOM_MUN": "Trinidad Zaachila",
+      "LAT_DEC": 16.921227,
+      "LON_DEC": -96.765343
+    },
+    {
+      "Planta": 407,
+      "NOM_MUN": "Tulum",
+      "LAT_DEC": 20.210777,
+      "LON_DEC": -87.463205
+    },
+    {
+      "Planta": 408,
+      "NOM_MUN": "Tuxcacuesco",
+      "LAT_DEC": 19.697222,
+      "LON_DEC": -103.983611
+    },
+    {
+      "Planta": 409,
+      "NOM_MUN": "Tuxcueca",
+      "LAT_DEC": 20.155556,
+      "LON_DEC": -103.183889
+    },
+    {
+      "Planta": 410,
+      "NOM_MUN": "Tuxpan",
+      "LAT_DEC": 19.554444,
+      "LON_DEC": -103.372222
+    },
+    {
+      "Planta": 411,
+      "NOM_MUN": "Tuzantán",
+      "LAT_DEC": 15.146063,
+      "LON_DEC": -92.421621
+    },
+    {
+      "Planta": 412,
+      "NOM_MUN": "Tuzantla",
+      "LAT_DEC": 19.207606,
+      "LON_DEC": -100.573064
+    },
+    {
+      "Planta": 413,
+      "NOM_MUN": "Tzicatlacoyan",
+      "LAT_DEC": 18.841228,
+      "LON_DEC": -98.048143
+    },
+    {
+      "Planta": 414,
+      "NOM_MUN": "Tzintzuntzan",
+      "LAT_DEC": 19.625438,
+      "LON_DEC": -101.576951
+    },
+    {
+      "Planta": 415,
+      "NOM_MUN": "Unión de Tula",
+      "LAT_DEC": 19.954444,
+      "LON_DEC": -104.264444
+    },
+    {
+      "Planta": 416,
+      "NOM_MUN": "Valle de Bravo",
+      "LAT_DEC": 19.194395,
+      "LON_DEC": -100.131607
+    },
+    {
+      "Planta": 417,
+      "NOM_MUN": "Vanegas",
+      "LAT_DEC": 23.883889,
+      "LON_DEC": -100.950556
+    },
+    {
+      "Planta": 418,
+      "NOM_MUN": "Vega de Alatorre",
+      "LAT_DEC": 20.027466,
+      "LON_DEC": -96.649765
+    },
+    {
+      "Planta": 419,
+      "NOM_MUN": "Villa Corona",
+      "LAT_DEC": 20.416389,
+      "LON_DEC": -103.661389
+    },
+    {
+      "Planta": 420,
+      "NOM_MUN": "Villa Corzo",
+      "LAT_DEC": 16.184751,
+      "LON_DEC": -93.267684
+    },
+    {
+      "Planta": 421,
+      "NOM_MUN": "Villa de Arista",
+      "LAT_DEC": 22.644772,
+      "LON_DEC": -100.84902
+    },
+    {
+      "Planta": 422,
+      "NOM_MUN": "Villa Guerrero",
+      "LAT_DEC": 21.983056,
+      "LON_DEC": -103.596667
+    },
+    {
+      "Planta": 423,
+      "NOM_MUN": "Villa Sola de Vega",
+      "LAT_DEC": 16.514758,
+      "LON_DEC": -96.978014
+    },
+    {
+      "Planta": 424,
+      "NOM_MUN": "Villa Tejúpam de la Unión",
+      "LAT_DEC": 17.667088,
+      "LON_DEC": -97.473521
+    },
+    {
+      "Planta": 425,
+      "NOM_MUN": "Xalpatláhuac",
+      "LAT_DEC": 17.470875,
+      "LON_DEC": -98.606449
+    },
+    {
+      "Planta": 426,
+      "NOM_MUN": "Xayacatlán de Bravo",
+      "LAT_DEC": 18.235576,
+      "LON_DEC": -97.97554
+    },
+    {
+      "Planta": 427,
+      "NOM_MUN": "Yaxkukul",
+      "LAT_DEC": 21.063479,
+      "LON_DEC": -89.419238
+    },
+    {
+      "Planta": 428,
+      "NOM_MUN": "Zapotlán de Juárez",
+      "LAT_DEC": 19.974047,
+      "LON_DEC": -98.861883
+    },
+    {
+      "Planta": 429,
+      "NOM_MUN": "Zaragoza",
+      "LAT_DEC": 28.487043,
+      "LON_DEC": -100.917622
+    },
+    {
+      "Planta": 430,
+      "NOM_MUN": "Zongolica",
+      "LAT_DEC": 18.666891,
+      "LON_DEC": -96.998364
+    },
+    {
+      "Planta": 431,
+      "NOM_MUN": "Zontecomatlán de López y Fuentes",
+      "LAT_DEC": 20.761981,
+      "LON_DEC": -98.342917
+    },
+    {
+      "Planta": 432,
+      "NOM_MUN": "Zumpahuacán",
+      "LAT_DEC": 18.840928,
+      "LON_DEC": -99.585596
+    }
+  ]
+}
