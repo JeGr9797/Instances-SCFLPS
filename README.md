@@ -21,3 +21,37 @@ The proposed methods are evaluated against the deterministic equivalent formulat
 
 Facility location; Stochastic programming; Shortages; Benders decomposition; Matheuristics; Mobile health clinics
 
+
+SCFLPS instance formats
+Structure
+```text
+scflps\_instances\_clean/
+  schema.json
+  instances/
+    100-200-a/
+      metadata.json
+      demand.csv
+      capacity.csv
+      fixed\_cost.csv
+      transport\_cost\_matrix.csv
+      transport\_cost\_long.csv
+      instance.json
+    ...
+  auxiliary/
+    candidatos/
+      candidatos.csv
+      candidatos.json
+    clientes/
+      clientes.csv
+      clientes.json
+```
+Main instance files
+`demand.csv`: demand distribution parameters by market or customer.
+`capacity.csv`: plant capacity values.
+`fixed\_cost.csv`: fixed opening cost by plant. The `auxiliary\_flag` column preserves an extra 0/1 value present in several original workbooks without imposing an interpretation.
+`transport\_cost\_matrix.csv`: plant-by-market cost matrix, convenient for inspection.
+`transport\_cost\_long.csv`: long-form cost table with `(plant, market, cost)`, convenient for Python, Gurobi, Pyomo, Julia/JuMP, and database loading.
+`instance.json`: complete instance in a nested JSON structure.
+`metadata.json`: source file, detected sheets, set sizes, scalar parameters, and validation flags.
+
+
